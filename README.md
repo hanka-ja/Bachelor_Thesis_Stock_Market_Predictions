@@ -9,7 +9,7 @@ This thesis investigates the prediction of binary directional movement (up/down)
 
 ## 1. System Requirements
 
-* **Operating System:** Linux (Ubuntu 22.04 or similar recommended)
+* **Operating System:** Linux (openSUSE Tumbleweed or similar recommended)
 * **Hardware:** 
   * Minimum 32GB RAM (due to large dataset processing).
   * NVIDIA GPU with CUDA support (Code was tested on RTX 3070 / RTX 3080).
